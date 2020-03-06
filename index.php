@@ -1,4 +1,4 @@
-<!doctype html>
+<!doctype html>
 <html lang="fr">
 
 <head>
@@ -37,7 +37,7 @@ body  {
 
 
 		<article>
-			<p class="style-titre3" style="text-align:center" font-weight: 600 >Présentation d'aéroports
+			<p class="style-titre3" style="text-align:center" font-weight: 600 >Introduction hellp
 			<p class="style-paragraphe" >
 			L'aéroport international de safi est un des plus grands aéroport du Maroc.
 
@@ -66,20 +66,20 @@ Connectivité internationale :
     <p><i class="fa fa-quote-right w3-xxlarge" ></i><br>
     <i class="w3-serif w3-xlarge">
    
-    "Rester c'est exister : mais voyager, c'est vivre."</i></p>
-  </div>
-      
+    "Restrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+rrrrrrrr
+rrrrrr
 
-    
-					
-		</article>
-		
-	
-		
-</section>
+rrrr
+rrrrr
+rrrrrrrrrrrr
+rr
+r
+rr
+rrrrrrrrrr
 
 
-<!-- pied -->
-	<?php include('pied.php'); ?>
-</body>
-</html>
+rrrrrrrrrrrrr
+rrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+rrrrrrr
+r>
